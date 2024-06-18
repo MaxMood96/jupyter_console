@@ -4,3 +4,4 @@ jupyter_core
 jupyter_client
 sphinx
 sphinxcontrib_github_alt
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
